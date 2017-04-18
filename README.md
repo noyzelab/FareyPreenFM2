@@ -1,8 +1,12 @@
 # FareyPreenFM2
-Farey sequence family ratios generator/programmer for the PreenFM2 synthesizer
+Farey sequence family ratios generator/programmer for the PreenFM2 synthesizer written in Processing
 David Burraston
 April 2017
 http://www.noyzelab.com
+
+** YOU WILL ALSO NEED The MidiBus installed in your Processing library for this program to talk to your PreenFM2 :
+ http://www.smallbutdigital.com/projects/themidibus/
+Program assumes that your PreenFM2 is directly connected via USB.. !
 
 commands =>
   
